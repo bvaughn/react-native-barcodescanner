@@ -23,5 +23,8 @@
     "qrcode",
     "scanner",
     "barcodereader"
-  ]
+  ],
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
 }
